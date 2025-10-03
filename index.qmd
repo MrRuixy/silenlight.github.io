@@ -1,6 +1,6 @@
 ---
 title: "Xueyu Rui"
-image: "D:/Users/备份/文件/文件/其他/rui.jpg"
+image: "https://gitee.com/rui-xueyu/picturep/blob/fcf606feb0ec0a8a7c4dc5b6ef97109046e0807d/typora/rui.jpg"
 about:
   id: hero-heading
   template: trestles

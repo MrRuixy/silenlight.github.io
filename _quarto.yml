@@ -21,19 +21,10 @@ website:
     search: true
     right: 
       - text: "Publications"
-        href: projects/projects.qmd
+        href: publications/publications.qmd
       
-      - text: "Teaching"
-        href: teaching/teaching.qmd
-        
-      - text: "R packages"
-        href: rpkg/rpkg.qmd
-           
-      - text: "Talks"
-        href: talks/talks.qmd
-
-      - text: "Blog/notes"
-        href: blog/blog.qmd
+      - text: "Learning"
+        href: learning/learning.qmd
         
       - text: "About me"
         href: about_me.qmd
