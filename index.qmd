@@ -5,7 +5,7 @@ about:
   id: hero-heading
   template: trestles
   image: https://gitee.com/rui-xueyu/picturep/raw/master/typora/rui.jpg
-  image-width: 12em
+  image-width: 20em
   image-shape: round
   links:
     - icon: mailbox
