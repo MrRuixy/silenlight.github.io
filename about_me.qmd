@@ -1,6 +1,6 @@
 ---
 title: "Xueyu Rui"
-image: https://gitee.com/rui-xueyu/picturep/commit/fcf606feb0ec0a8a7c4dc5b6ef97109046e0807d
+image: D:\Users\备份\文件\文件\其他\rui.jpg
 page-layout: article
 format: 
   html:
