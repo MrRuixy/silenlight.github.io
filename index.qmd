@@ -1,6 +1,6 @@
 ---
 title: "Xueyu Rui"
-image: D:/Users/备份/文件/文件/其他/rui.jpg
+image: "D:/Users/备份/文件/文件/其他/rui.jpg"
 about:
   id: hero-heading
   template: trestles
