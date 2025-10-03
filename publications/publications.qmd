@@ -1,33 +1,5 @@
 ---
 title: "Publications"
-listing:
-  - id: Chinese
-  #  max-description-length: 500
-  #  image-height: 250px
-    fields: [title, description]
-    contents:
-      - os_teaching
-      - phuse
-      - dan
-    type: grid
-    grid-item-border: false
-    grid-columns: 3
-    sort: false
-
-  - id: English
-   # max-description-length: 500
-   # image-height: 280px
-    fields: [title, description]
-    contents: 
-      # - csids
-      - ehr
-      - sykdomspulsen
-      #- noreden
-      # - dan
-    type: grid
-    grid-item-border: false
-    grid-columns: 3
-    sort: false
 ---
 
 
