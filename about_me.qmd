@@ -1,6 +1,6 @@
 ---
 title: "Xueyu Rui"
-image: D:\github\silenlight.github.io\rui.jpg
+image: misc\rui.jpg
 page-layout: article
 format: 
   html:
