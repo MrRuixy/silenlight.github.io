@@ -32,7 +32,7 @@ listing:
 
 
 ### 中文
-[1]孙欣,芮雪雨.城市数字普惠金融发展对碳排放强度影响研究[J].华东经济管理,2024,38(07):66-76.DOI:10.19629/j.cnki.34-1014/f.231102021.
+[1]孙欣,**芮雪雨**.城市数字普惠金融发展对碳排放强度影响研究[J].华东经济管理,2024,38(07):66-76.DOI:10.19629/j.cnki.34-1014/f.231102021.
 
 
 
@@ -42,7 +42,7 @@ listing:
 
 ### 英文
 [1]Sun, X., **Rui, X**., Cui, Z., Taghizadeh-Hesary, F., & Zhao, X. (2025). Unleashing the green potential: exploring the dynamic influence of the urban digital economy on carbon emissions. Financial Innovation, 11(1), 39. (SSCI Q1)
-[2]Hao, Y., Liu, S., Rui, X., Hu, X., Wang, L., Wang, S., ... & Lu, Z. N. (2025). Exploring the psychological impacts of air contamination: A cross-national study. Journal of Environmental Management, 390, 126207. (SCI Q1)
+[2]Hao, Y., Liu, S., **Rui, X.**, Hu, X., Wang, L., Wang, S., ... & Lu, Z. N. (2025). Exploring the psychological impacts of air contamination: A cross-national study. Journal of Environmental Management, 390, 126207. (SCI Q1)
 
 
 ::: {#opensource}
