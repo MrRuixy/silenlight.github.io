@@ -2,7 +2,7 @@
 title: "Use WebR in your existing quarto website"
 description: |
   You might get stuck when you try to add the trending `webR` to quarto extension in your website. This is one way to fix it.
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-10-01"
 categories: [Quarto, Website]
 sidebar: false

@@ -2,7 +2,7 @@
 title: "Styling your quarto project"
 description: |
   Learning notes on how to customize a quarto project, such as website.
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-10-18"
 categories: [Website]
 sidebar: false

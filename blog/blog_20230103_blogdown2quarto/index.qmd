@@ -1,6 +1,6 @@
 ---
 title: "Website reboot: switching from Blogdown to Quarto"
-author: "Chi Zhang"
+author: "Xueyu Rui"
 description: |
   Time to reboot the personal website. Now, with Quarto 
 date: "2023-01-03"

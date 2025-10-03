@@ -1,6 +1,6 @@
 ---
 title: "Personal Highlights: Positconf 2023"
-author: "Chi Zhang"
+author: "Xueyu Rui"
 description: |
   Curation of content to check out when I've got time
 date: "2023-09-21"

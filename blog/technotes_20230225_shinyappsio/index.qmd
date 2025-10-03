@@ -2,7 +2,7 @@
 title: "Testing Shiny app and deploy to shinyapps.io"
 description: |
   Notes on how to set up the free shinyapp.io to deploy a demo shiny app.
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-02-25"
 categories: [Shiny, Website]
 sidebar: false

@@ -1,6 +1,6 @@
 ---
 title: "qtwAcademic: a quick and easy way to start your Quarto website"
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-01-05"
 categories: [Quarto, Website]
 sidebar: false

@@ -2,7 +2,7 @@
 title: "Notes: Making Data Science work for Clinical Reporting - Part 3"
 description: |
   This is the Part 3 of a four-part course on Coursera. In this part, innerSource and OpenSource concepts are introduced, and R package development is discussed.
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-02-27"
 categories: [Clinical trial, Data science, Reporting]
 sidebar: false

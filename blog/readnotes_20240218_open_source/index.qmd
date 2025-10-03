@@ -2,7 +2,7 @@
 title: "Working in Public: The Making and Maintenance of Open Source Software - Nadia Eghbal"
 description: |
   Reading notes on some of the chapters. Book on Amazon: [link](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862) 
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2024-02-18"
 categories: [Notes]
 sidebar: false

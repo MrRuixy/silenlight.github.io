@@ -2,7 +2,7 @@
 title: "Notes: Making Data Science work for Clinical Reporting - Part 1"
 description: |
   This is the Part 1 of a four-part course on Coursera. In this part, there is an introduction to clinical trial phases, and motivation to share data. In addition, some terms (such as CDISC standard) have been introduced.
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-02-06"
 categories: [Clinical trial, Data science, Reporting]
 sidebar: false

@@ -2,7 +2,7 @@
 title: "R package workflow"
 description: |
   A step-to-step guide to make CRAN-worthy R packages
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-05-19"
 categories: [Rpkg, RSE]
 sidebar: false

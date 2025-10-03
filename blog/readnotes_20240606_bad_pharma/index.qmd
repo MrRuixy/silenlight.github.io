@@ -2,7 +2,7 @@
 title: "Bad Pharma: How medicine is broken, and how we can fix it - Ben Goldacre"
 description: |
   Reading notes on some of the chapters. Book on Amazon: [link](https://www.amazon.co.uk/Bad-Pharma-How-Medicine-Broken/dp/000749808X) 
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2024-06-06"
 categories: [Notes]
 sidebar: false

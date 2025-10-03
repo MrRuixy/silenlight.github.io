@@ -2,7 +2,7 @@
 title: "Notes: Making Data Science work for Clinical Reporting - Part 2"
 description: |
   This is the Part 2 of a four-part course on Coursera. In this part, agile and DevOps practices are introduced, along with version control with Git and reproducible R projects. 
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-02-22"
 categories: [Clinical trial, Data science, Reporting]
 sidebar: false

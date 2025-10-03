@@ -2,7 +2,7 @@
 title: "R package website with `pkgdown`"
 description: |
   A workflow that worked for me: when you have a few vignette documents, and want to display them nicely in a website format.  
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-02-20"
 categories: [Rpkg, Website]
 sidebar: false

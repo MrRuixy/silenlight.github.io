@@ -1,6 +1,6 @@
 ---
 title: "Use Quarto, Make Friends: a two-year journey"
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2024-09-23"
 categories: [Quarto, Website]
 title-block-banner: false

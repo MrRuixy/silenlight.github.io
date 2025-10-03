@@ -1,6 +1,6 @@
 ---
 title: "Transforming medical statistics classroom with R and Quarto"
-author: "Chi Zhang"
+author: "Xueyu Rui"
 description: |
   Some reflection on the experimental 8-day introductory statisics course with *new* teaching methods. Visit the course website [here](https://ocbe-uio.github.io/teaching_mf9130e/).
 date: "2023-07-17"

@@ -1,6 +1,6 @@
 ---
 title: "Personal Highlights: CEN2023"
-author: "Chi Zhang"
+author: "Xueyu Rui"
 description: |
   Selected summaries on the 5th Conference of the Central European Network of the International Biometric Society (IBS).
 date: "2023-09-06"

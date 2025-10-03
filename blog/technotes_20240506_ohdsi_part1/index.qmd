@@ -2,7 +2,7 @@
 title: "Notes: The Book of OHDSI - Data Analytics"
 description: |
   Observational Health Data Sciences and Informatics
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2024-05-06"
 categories: [Data science, Observational data]
 sidebar: false
