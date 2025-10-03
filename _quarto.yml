@@ -20,7 +20,7 @@ website:
     background: "#A9CCE3"
     search: true
     right: 
-      - text: "Projects"
+      - text: "Publications"
         href: projects/projects.qmd
       
       - text: "Teaching"
