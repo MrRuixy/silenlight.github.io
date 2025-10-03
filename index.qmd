@@ -1,6 +1,6 @@
 ---
 title: "Xueyu Rui"
-image: misc\rui.jpg
+image: misc/info/rui.jpg
 about:
   id: hero-heading
   template: trestles
