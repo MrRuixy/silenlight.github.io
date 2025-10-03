@@ -189,27 +189,6 @@
     "text": "An R package for Bayesian semi-parametric modelling of in-vitro drug combination experiments\nGitHub Link"
   },
   {
-    "objectID": "projects/projects.html",
-    "href": "projects/projects.html",
-    "title": "Publications",
-    "section": "",
-    "text": "中文\n[1]孙欣,芮雪雨.城市数字普惠金融发展对碳排放强度影响研究[J].华东经济管理,2024,38(07):66-76.DOI:10.19629/j.cnki.34-1014/f.231102021.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCSIDS\n\n\nConsortium for Statistics in Disease Surveillance\n\n\n\n\n\nNo matching items\n\n\n\n英文\n[1]Sun, X., Rui, X., Cui, Z., Taghizadeh-Hesary, F., & Zhao, X. (2025). Unleashing the green potential: exploring the dynamic influence of the urban digital economy on carbon emissions. Financial Innovation, 11(1), 39. (SSCI Q1) [2]Hao, Y., Liu, S., Rui, X., Hu, X., Wang, L., Wang, S., … & Lu, Z. N. (2025). Exploring the psychological impacts of air contamination: A cross-national study. Journal of Environmental Management, 390, 126207. (SCI Q1)\n\n\n\n\n\n\n\n\n\n\nTeach in R and Quarto\n\n\nTransform biostatistics classroom into R and quarto\n\n\n\n\n\n\n\n\n\n\n\n\nPHUSE - CAMIS\n\n\nContributor to the Global Healthcare Data Science Community\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/os_teaching/index.html",
-    "href": "projects/os_teaching/index.html",
-    "title": "Teach in R and Quarto",
-    "section": "",
-    "text": "MF9130E - Introductory course in statistics\n8-day intensive course on introductory statistics. April 2023 we made it with R rather than propriety software, coupled with live-coding sessions to enhance understanding of basic concepts such as distribution and hypothesis tests.\nRepository\nCourse website\nRead more about the experience in\n\nblogpost\npresentation"
-  },
-  {
-    "objectID": "projects/noreden/index.html",
-    "href": "projects/noreden/index.html",
-    "title": "Noreden",
-    "section": "",
-    "text": "Noreden"
-  },
-  {
     "objectID": "misc/literature.html",
     "href": "misc/literature.html",
     "title": "Hello, I'm Chi",
@@ -826,53 +805,11 @@
     "text": "ruixueyu1116@outlook.com\n  \n  \n    \n     SilentLight\n  \n  \n    \n     Xueyu Rui\n  \n\n  \n  \nHello!"
   },
   {
-    "objectID": "projects/nor_mortality/index.html",
-    "href": "projects/nor_mortality/index.html",
-    "title": "Mortality Surveillance in Norway",
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Publications",
     "section": "",
-    "text": "NorMOMO"
-  },
-  {
-    "objectID": "projects/nor_mortality/index.html#norwegian-surveillance-system-for-excess-mortality",
-    "href": "projects/nor_mortality/index.html#norwegian-surveillance-system-for-excess-mortality",
-    "title": "Mortality Surveillance in Norway",
-    "section": "",
-    "text": "NorMOMO"
-  },
-  {
-    "objectID": "projects/nor_mortality/index.html#r-packages-for-mortality-surveillance",
-    "href": "projects/nor_mortality/index.html#r-packages-for-mortality-surveillance",
-    "title": "Mortality Surveillance in Norway",
-    "section": "R packages for mortality surveillance",
-    "text": "R packages for mortality surveillance\n(continue…)\n\nnowcast\nsplalert\nmortanor"
-  },
-  {
-    "objectID": "projects/nor_mortality/index.html#collaboration-with-cause-of-death-registry",
-    "href": "projects/nor_mortality/index.html#collaboration-with-cause-of-death-registry",
-    "title": "Mortality Surveillance in Norway",
-    "section": "Collaboration with Cause of Death Registry",
-    "text": "Collaboration with Cause of Death Registry"
-  },
-  {
-    "objectID": "projects/phuse/index.html",
-    "href": "projects/phuse/index.html",
-    "title": "PHUSE - CAMIS",
-    "section": "",
-    "text": "I am contributing to two working groups at PHUSE: CAMIS, and RWD - Real World Data Guideline (early stage).\n\nCAMIS: Comparing Analysis Method Implementations in Software\nCAMIS is a cross-industry group formed of members from PHUSE, PSI and ASA.\nSeveral discrepancies have been discovered in statistical analysis results between different programming languages, even in fully qualified statistical computing environments. Observing differences across languages can reduce the analyst’s confidence in reliability and, by understanding the source of any discrepancies, one can reinstate confidence in reliability.\nThe goal of this project is to demystify conflict when doing QC and to help ease the transitions to new languages and techniques with comparison and comprehensive explanations.\n\n\nRWD Working Group\nThis is a newly formed working group, working on statistical programming guidelines while working on RWD (read world data)."
-  },
-  {
-    "objectID": "projects/sykdomspulsen/index.html",
-    "href": "projects/sykdomspulsen/index.html",
-    "title": "CSIDS",
-    "section": "",
-    "text": "CSIDS: the Consortium for Statistics in Disease Surveillance (previously Sykdomspulsen) is a real-time analysis and disease surveillance system designed and developed at the Norwegian Institute of Public Health (NIPH/FHI). It is a unique project that processes new data (e.g. covid-19 cases) shortly after it is available. Complex statistical analyses are automatically run for all locations in Norway, producing reports and alerting various stakeholders. This provides the health authorities the ability to make proactive strategic decisions with the most up-to-date information.\n\n\ncsverse is a number of R packages that have been developed by the Sykdomspulsen team to help with infectious diseases surveillance.\n\n\n\nIn November 2022, the core components of Sykdomspulsen and splverse R packages have been migrated to CSIDS: the Consortium for Statistics in Disease Surveillance. Please refer to CSIDS for ongoing developments.\n\n\n\n\nWe receive data from more than 15 data sources every day\n2 000 000 000+ rows of data and results (1TB)\n1 000+ database tables\n1 000 000+ analyses per day\n1 000+ automatic reports per day\n\n\n\nDownload poster (Norwegian)"
-  },
-  {
-    "objectID": "projects/sykdomspulsen/index.html#overview",
-    "href": "projects/sykdomspulsen/index.html#overview",
-    "title": "CSIDS",
-    "section": "",
-    "text": "CSIDS: the Consortium for Statistics in Disease Surveillance (previously Sykdomspulsen) is a real-time analysis and disease surveillance system designed and developed at the Norwegian Institute of Public Health (NIPH/FHI). It is a unique project that processes new data (e.g. covid-19 cases) shortly after it is available. Complex statistical analyses are automatically run for all locations in Norway, producing reports and alerting various stakeholders. This provides the health authorities the ability to make proactive strategic decisions with the most up-to-date information.\n\n\ncsverse is a number of R packages that have been developed by the Sykdomspulsen team to help with infectious diseases surveillance.\n\n\n\nIn November 2022, the core components of Sykdomspulsen and splverse R packages have been migrated to CSIDS: the Consortium for Statistics in Disease Surveillance. Please refer to CSIDS for ongoing developments.\n\n\n\n\nWe receive data from more than 15 data sources every day\n2 000 000 000+ rows of data and results (1TB)\n1 000+ database tables\n1 000 000+ analyses per day\n1 000+ automatic reports per day\n\n\n\nDownload poster (Norwegian)"
+    "text": "中文\n[1]孙欣,芮雪雨.城市数字普惠金融发展对碳排放强度影响研究[J].华东经济管理,2024,38(07):66-76.DOI:10.19629/j.cnki.34-1014/f.231102021.\n\n\n\n\nNo matching items\n\n\n\n英文\n[1]Sun, X., Rui, X., Cui, Z., Taghizadeh-Hesary, F., & Zhao, X. (2025). Unleashing the green potential: exploring the dynamic influence of the urban digital economy on carbon emissions. Financial Innovation, 11(1), 39. (SSCI Q1) [2]Hao, Y., Liu, S., Rui, X., Hu, X., Wang, L., Wang, S., … & Lu, Z. N. (2025). Exploring the psychological impacts of air contamination: A cross-national study. Journal of Environmental Management, 390, 126207. (SCI Q1)\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "rpkg/covidnor/index.html",

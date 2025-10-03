@@ -29,15 +29,6 @@
     ]
   },
   {
-    "listing": "/projects/projects.html",
-    "items": [
-      "/projects/os_teaching/index.html",
-      "/projects/phuse/index.html",
-      "/projects/ehr/index.html",
-      "/projects/sykdomspulsen/index.html"
-    ]
-  },
-  {
     "listing": "/blog/blog.html",
     "items": [
       "/blog/blog_20241105_positconf2024/index.html",
@@ -65,5 +56,9 @@
       "/blog/technotes_20230205_clinreport_part1/index.html",
       "/blog/technotes_20230111_deployqt/index.html"
     ]
+  },
+  {
+    "listing": "/projects/projects.html",
+    "items": []
   }
 ]
