@@ -2,9 +2,9 @@
 title: "R packages"
 listing:
   - id: pkg
-    max-description-length: 80
-    image-height: 290px
-    fields: [image, title, description]
+   # max-description-length: 80
+  # image-height: 290px
+    fields: [title, description]
     contents: 
       - ggehr
       - qtwAcademic

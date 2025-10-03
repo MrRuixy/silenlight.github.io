@@ -1,6 +1,6 @@
 ---
 title: "Xueyu Rui"
-image: D:\Users\备份\文件\文件\其他\rui.jpg
+image: D:/Users/备份/文件/文件/其他/rui.jpg
 about:
   id: hero-heading
   template: trestles
@@ -13,14 +13,14 @@ about:
     - icon: github
       text: SilentLight
       href: https://github.com/MrRuixy
-    - icon: linkedin
-      text: Xueyu Rui
+   # - icon: linkedin
+    #  text: Xueyu Rui
      # href: https://www.linkedin.com/in/chizapoth/
 ---
 
 ::: {#hero-heading}
 
-Hello! 
+Hello! I am a PhD student.
 
 
 :::
