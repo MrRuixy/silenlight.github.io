@@ -1,10 +1,10 @@
 ---
 title: "Publications"
 listing:
-  - id: opensource
-    max-description-length: 500
-    image-height: 250px
-    fields: [image, title, description]
+  - id: Chinese
+  #  max-description-length: 500
+  #  image-height: 250px
+    fields: [title, description]
     contents:
       - os_teaching
       - phuse
@@ -14,10 +14,10 @@ listing:
     grid-columns: 3
     sort: false
 
-  - id: rwdpublichealth
-    max-description-length: 500
-    image-height: 280px
-    fields: [image, title, description]
+  - id: English
+   # max-description-length: 500
+   # image-height: 280px
+    fields: [title, description]
     contents: 
       # - csids
       - ehr
