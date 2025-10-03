@@ -4,6 +4,7 @@ image: https://gitee.com/rui-xueyu/picturep/raw/master/typora/rui.jpg
 about:
   id: hero-heading
   template: trestles
+  image: https://gitee.com/rui-xueyu/picturep/raw/master/typora/rui.jpg
   image-width: 12em
   image-shape: round
   links:

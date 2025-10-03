@@ -8,6 +8,7 @@ format:
 about:
   id: hero-heading
   template: jolla
+  image: https://gitee.com/rui-xueyu/picturep/raw/master/typora/rui.jpg
   image-shape: round
   links:
     - icon: mailbox
