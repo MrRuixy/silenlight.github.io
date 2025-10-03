@@ -30,9 +30,7 @@ listing:
     filter-ui: false
 ---
 
-I started teaching introductory statistics at Faculty of Medicine, University of Oslo since early 2023. I aim to make basic data skills and statistics accessible to health researchers, by combining modern data science tools (R, quarto, version control) with hands-on practice in my class.
-
-In my free time I volunteer in the Carpentries workshops to teach Rstats to researchers and students at UiO.
+A
 
 
 ## Statistics
@@ -47,7 +45,4 @@ In my free time I volunteer in the Carpentries workshops to teach Rstats to rese
 
 ## Guides and Cheatsheets
 
-| Title |   Description            |
-|:-----:|:------------------------:|
-| [ggplot2](https://github.com/chizapoth/chizapoth.github.io/blob/main/resources/lecture_ggplot.pdf) | Lecture notes for `ggplot2` at the Carpentries workshop, UiO|
-| [list of commands](https://ocbe-uio.github.io/teaching_mf9130e/lab/list_of_commands.html) | Quick reference list of R commands used in my statistics classes |
+B
