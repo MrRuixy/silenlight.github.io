@@ -1,6 +1,6 @@
 ---
 title: "Xueyu Rui"
-image: https://gitee.com/rui-xueyu/picturep/raw/master/typora/rui.jpg
+# image: https://gitee.com/rui-xueyu/picturep/raw/master/typora/rui.jpg
 about:
   id: hero-heading
   template: trestles
