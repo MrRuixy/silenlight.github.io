@@ -4,7 +4,7 @@ image: misc/info/rui.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 20em
+  # image-width: 20em
   image-shape: round
   links:
     - icon: mailbox
