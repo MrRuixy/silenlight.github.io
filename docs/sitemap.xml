@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chizapoth.github.io/teaching/workshop_rladies_zurich/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.373Z</lastmod>
+    <lastmod>2025-10-03T13:37:32.873Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/teaching/teaching.html</loc>
@@ -46,11 +46,11 @@
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/nowcast/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.315Z</lastmod>
+    <lastmod>2025-10-03T13:35:59.780Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/mortanor/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.313Z</lastmod>
+    <lastmod>2025-10-03T13:35:47.482Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/ggehr/index.html</loc>
@@ -58,143 +58,139 @@
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/csmaps/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.310Z</lastmod>
+    <lastmod>2025-10-03T13:35:04.267Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/projects/projects.html</loc>
     <lastmod>2025-10-03T07:31:54.209Z</lastmod>
   </url>
   <url>
-    <loc>https://chizapoth.github.io/index.html</loc>
-    <lastmod>2025-10-03T12:53:53.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20231018_qt_styling/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.045Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20230519_pkgcran/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.043Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20230228_clinreport_part3/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.042Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20230222_clinreport_part2/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.041Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20230205_clinreport_part1/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.038Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/readnotes_20240606_bad_pharma/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/readnotes_2023010x_preventable_sridhar/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.032Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20241105_positconf2024/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.028Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20230921_positconf2023/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20230717_teaching/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20230112_roche_opensource/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.019Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20230103_blogdown2quarto/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.014Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/about_me.html</loc>
-    <lastmod>2025-10-03T07:40:04.940Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog.html</loc>
-    <lastmod>2025-10-03T06:16:35.012Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20230104_qtwAcademic/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.015Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20230301_ds_clinreport/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.019Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20230904_cen2023/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/blog_20240923_quartofriends/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/readnotes_2023010x_pandemic_gates/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.030Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/readnotes_20240218_open_source/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.032Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20230111_deployqt/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.038Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20230220_pkgdown/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.041Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20230225_shinyappsio/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.042Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20230301_clinreport_part4/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.043Z</lastmod>
+    <loc>https://chizapoth.github.io/blog/technotes_20240506_ohdsi_part1/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.046Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/blog/technotes_20231001_qt_webr/index.html</loc>
     <lastmod>2025-10-03T06:16:35.045Z</lastmod>
   </url>
   <url>
-    <loc>https://chizapoth.github.io/blog/technotes_20240506_ohdsi_part1/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.046Z</lastmod>
+    <loc>https://chizapoth.github.io/blog/technotes_20230301_clinreport_part4/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.043Z</lastmod>
   </url>
   <url>
-    <loc>https://chizapoth.github.io/misc/literature.html</loc>
-    <lastmod>2025-10-03T06:16:35.270Z</lastmod>
+    <loc>https://chizapoth.github.io/blog/technotes_20230225_shinyappsio/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.042Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/technotes_20230220_pkgdown/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.041Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/technotes_20230111_deployqt/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.038Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/readnotes_20240218_open_source/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/readnotes_2023010x_pandemic_gates/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20240923_quartofriends/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20230904_cen2023/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20230301_ds_clinreport/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20230104_qtwAcademic/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.015Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog.html</loc>
+    <lastmod>2025-10-03T06:16:35.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/about_me.html</loc>
+    <lastmod>2025-10-03T07:40:04.940Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20230103_blogdown2quarto/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.014Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20230112_roche_opensource/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20230717_teaching/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20230921_positconf2023/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/blog_20241105_positconf2024/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.028Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/readnotes_2023010x_preventable_sridhar/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/readnotes_20240606_bad_pharma/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.033Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/technotes_20230205_clinreport_part1/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.038Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/technotes_20230222_clinreport_part2/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.041Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/technotes_20230228_clinreport_part3/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.042Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/technotes_20230519_pkgcran/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.043Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/blog/technotes_20231018_qt_styling/index.html</loc>
+    <lastmod>2025-10-03T06:16:35.045Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chizapoth.github.io/index.html</loc>
+    <lastmod>2025-10-03T12:53:53.775Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/csdata/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.309Z</lastmod>
+    <lastmod>2025-10-03T13:34:53.578Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/cstime/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.310Z</lastmod>
+    <lastmod>2025-10-03T13:35:15.405Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/medicode/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.313Z</lastmod>
+    <lastmod>2025-10-03T13:35:41.546Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/noreden/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.314Z</lastmod>
+    <lastmod>2025-10-03T13:35:54.351Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/rpkg/qtwAcademic/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.315Z</lastmod>
+    <lastmod>2025-10-03T13:36:05.695Z</lastmod>
   </url>
   <url>
     <loc>https://chizapoth.github.io/talks/community_20240710_camis/index.html</loc>
@@ -234,6 +230,6 @@
   </url>
   <url>
     <loc>https://chizapoth.github.io/teaching/workshop_bioinf/index.html</loc>
-    <lastmod>2025-10-03T06:16:35.373Z</lastmod>
+    <lastmod>2025-10-03T13:37:25.522Z</lastmod>
   </url>
 </urlset>

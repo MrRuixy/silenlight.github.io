@@ -1,7 +1,7 @@
 ---
 title: "noreden"
 description: "Tools to facilitate nutrition researcher for sustainable diet discovery"
-author: "Chi Zhang"
+author: "Xueyu Rui"
 date: "2023-10-18"
 categories: [public health]
 ---

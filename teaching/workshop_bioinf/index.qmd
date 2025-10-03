@@ -12,6 +12,6 @@ Main instructor: Manuela Zucknick
 
 Co-instructor: Theophilius Asenso
 
-Developer: Chi Zhang
+Developer: Xueyu Rui
 
 Course [website](https://ocbe-uio.github.io/2022_bioinformatics_workshop/) and [repository](https://github.com/ocbe-uio/2022_bioinformatics_workshop)
