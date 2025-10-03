@@ -1,6 +1,6 @@
 ---
 title: "Xueyu Rui"
-image: "https://gitee.com/rui-xueyu/picturep/blob/fcf606feb0ec0a8a7c4dc5b6ef97109046e0807d/typora/rui.jpg"
+image: https://gitee.com/rui-xueyu/picturep/raw/master/typora/rui.jpg
 page-layout: article
 format: 
   html:
